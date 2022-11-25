@@ -68,7 +68,7 @@ export default function App() {
           borderRadius: 12,
           width: 360,
         }}
-        href="https://inablink.io/#quick-link-preview"
+        href="https://inablink.io/RZD6qwZ9W8HrOvr6gODq#BdqmUpeRRGSxneIq62Mu3w"
       >
         <img
           width="360"

@@ -85,6 +85,7 @@ export default function App() {
                     fontFamily:
                       "'Poppins', 'system-ui', 'BlinkMacSystemFont', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'",
                     margin: "0",
+                    
                     lineHeight: "100%",
                     display: "block",
                     width: 240,

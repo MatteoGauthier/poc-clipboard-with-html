@@ -19,7 +19,10 @@ export default function App() {
 
     const richText =
       "<meta charset='utf-8'>" +
-      document.querySelector("a").outerHTML +
+      document.querySelectorAll("a")[0].outerHTML +
+      "<br/>" +
+      "<br/>" +
+      document.querySelectorAll("a")[1].outerHTML +
       "<br/>";
 
     const richTextBlob = new Blob([richText], { type: "text/html" });

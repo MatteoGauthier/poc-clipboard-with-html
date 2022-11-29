@@ -109,7 +109,7 @@ export default function App() {
               <td align="right">
                 <img
                   style={{ display: "block" }}
-                  src="https://user-images.githubusercontent.com/32040951/204016684-6d7edd07-c95e-4921-953d-3c3448044501.svg"
+                  src="https://user-images.githubusercontent.com/32040951/204548869-d7cf7561-56d9-4c96-a0c1-ca14f9f9d23b.png"
                   alt="Blink logo"
                 />
               </td>
@@ -168,7 +168,7 @@ export default function App() {
               <td align="right">
                 <img
                   style={{ display: "block", height: ".9em" }}
-                  src="https://user-images.githubusercontent.com/32040951/204016684-6d7edd07-c95e-4921-953d-3c3448044501.svg"
+                  src="https://user-images.githubusercontent.com/32040951/204548869-d7cf7561-56d9-4c96-a0c1-ca14f9f9d23b.png"
                   alt="Blink logo"
                 />
               </td>
@@ -224,7 +224,7 @@ export default function App() {
 
           <img
             style={{ display: "block", height: ".9em" }}
-            src="https://user-images.githubusercontent.com/32040951/204016684-6d7edd07-c95e-4921-953d-3c3448044501.svg"
+            src="https://user-images.githubusercontent.com/32040951/204548869-d7cf7561-56d9-4c96-a0c1-ca14f9f9d23b.png"
             alt="Blink logo"
           />
         </div>
